@@ -1,0 +1,28 @@
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <a href="{{ '/' | relative_url }}" class="sidebar-brand">{{ site.title }}</a>
+  </div>
+  <nav class="sidebar-nav">
+    <ul>
+      {% for item in site.nav_items %}
+        {% assign item_path = item.url | relative_url %}
+        {% assign is_active = false %}
+        {% if page.url == item.url %}
+          {% assign is_active = true %}
+        {% endif %}
+        <li>
+          <a href="{{ item_path }}" class="{% if is_active %}active{% endif %}">
+            {{ item.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <div class="sidebar-footer">
+    <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</aside>
+
+<button class="sidebar-toggle" id="sidebar-toggle" aria-label="Apri/chiudi menu">
+  ☰
+</button>

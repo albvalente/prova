@@ -1,0 +1,32 @@
+title: Il Mio Sito Demo
+description: >-
+  Sito dimostrativo realizzato con Jekyll, pronto per essere pubblicato
+  su GitHub Pages. Contiene pagine di esempio, immagini, link e una
+  barra di navigazione laterale.
+author: Il Tuo Nome
+lang: it
+
+# IMPORTANTE: se pubblichi su https://<utente>.github.io/<nome-repo>/
+# imposta baseurl con "/<nome-repo>" (con lo slash iniziale, senza slash finale).
+# Se invece il repo si chiama <utente>.github.io, lascia baseurl vuoto.
+baseurl: "/prova"
+url: ""
+
+# Voci della barra di navigazione laterale.
+# Aggiungi o rimuovi elementi qui: si aggiornano automaticamente ovunque.
+nav_items:
+  - title: Home
+    url: /
+  - title: Chi siamo
+    url: /chi-siamo/
+  - title: Servizi
+    url: /servizi/
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
