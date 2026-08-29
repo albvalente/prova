@@ -5,6 +5,8 @@ permalink: /decalogo-primaria/
 ---
 # Decalogo patto digitale IC19 per la scuola primaria (Guarino, Rodari)
 
+### Noi genitori, insegnanti e figure educative a vario titolo di bambini, giovani e ragazzi:
+
 1.  non vogliamo impedire l’uso del digitale alle nuove generazioni, ma faremo del nostro meglio per renderla un’esperienza costruttiva;
     
 2.  siamo consapevoli che l’uso eccessivo e non supervisionato di schermi digitali (smartphone, tablet, smartwatch, videogiochi, etc) ha effetti negativi dimostrati sullo sviluppo del cervello dei bambini e delle loro capacità di interazioni sociali;
