@@ -3,34 +3,24 @@ layout: default
 title: Home
 permalink: /
 ---
+# IC19 Patti Digitali
 
-<img src="{{ '/assets/images/hero.svg' | relative_url }}" alt="Illustrazione di copertina">
+## Archivio documentazione patti digitali IC19 Verona
 
-# Benvenuto nel sito demo
+Benvenuti, queste pagine web raccolgono tutti i materiali prodotti e selezionati dal gruppo di lavoro dell'Istituto Comprensivo 19 Verona (Scuole primarie Guarino da Verona e G. Rodari e scuola secondaria G.Verdi).
 
-Questo è un **sito dimostrativo** realizzato con [Jekyll](https://jekyllrb.com/) e pensato per essere pubblicato subito su [GitHub Pages](https://pages.github.com/). Puoi usarlo come base di partenza: modifica i testi, le immagini e la barra laterale per adattarlo al tuo progetto.
+Nell'ambito del progetto Patti Digitali IC19VR è stato costituito un gruppo di lavoro di genitori e insegnanti che hanno messo a disposizione le loro competenze tecniche, educative e accademiche con la finalità di realizzare \*_due_\* decaloghi, uno per la scuola primaria e uno per la scuola secondaria.
 
-## Cosa trovi in questo template
+L'obiettivo di questi decaloghi è di fornire concetti semplici e facilmente attuabili per aiutare i ragazzi e i loro genitori a sviluppare un rapporto sano e costruttivo con gli strumenti digitali ormai onnipresenti nelle nostre vite (smartphone, tablet, PC, social network, videogiochi, app di messaggistica, etc.).
 
-<div class="card-grid">
-  <div class="card">
-    <h3>Barra laterale</h3>
-    <p>Navigazione fissa a sinistra, generata automaticamente dalle voci definite in <code>_config.yml</code>.</p>
-  </div>
-  <div class="card">
-    <h3>Pagine di esempio</h3>
-    <p>Tre pagine collegate tra loro: Home, Chi siamo e Servizi, con testo, immagini e link.</p>
-  </div>
-  <div class="card">
-    <h3>Responsive</h3>
-    <p>Su schermi piccoli la barra laterale diventa un menu a scomparsa con pulsante hamburger.</p>
-  </div>
-</div>
+I decaloghi sono pensati per facilitare lo sviluppo di "buone pratiche digitali" in tutti gli ambienti frequentati dai ragazzi: la scuola, la famiglia, le squadre sportive, i gruppi scout, gli oratori e in generale tutti i luoghi di aggregazione per bambini/ragazzi/giovani.
 
-Vuoi saperne di più? Vai alla pagina [Chi siamo]({{ '/chi-siamo/' | relative_url }}) oppure scopri i [Servizi]({{ '/servizi/' | relative_url }}).
+I due decaloghi (scuola primaria e scuola secondaria) condividono dei punti comuni e cercano di sviluppare buone pratiche in continuità che possano accompagnare i ragazzi nella loro crescita cercando un buon compromesso tra **restare al passo coi tempi** e **tutelare la propria salute digitale**.
 
-<a class="button-link" href="{{ '/servizi/' | relative_url }}">Scopri i servizi →</a>
+Per ogni punto dei decaloghi viene resa disponibile una scheda di approfondimento che vuole argomentare e spiegare in maggiore dettaglio il contenuto del punto.
 
----
+In aggiunta a decaloghi e schede di approfondimento, viene realizzato un archivio di titoli di libri, articoli di giornale, articoli scientifici, etc. per chi volesse approfondire ulteriormente il tema.
 
-Per approfondire la sintassi usata in questo sito, consulta la [documentazione ufficiale di Jekyll](https://jekyllrb.com/docs/) o la guida a [GitHub Pages](https://docs.github.com/it/pages).
+Per maggiori informazioni sui materiali e sulle attività del gruppo di lavoro potete inviare una mail a [comitatogenitoriguarino@gmail.com](mailto:comitatogenitoriguarino@gmail.com)
+
+La partecipazione al gruppo di lavoro è libera e chiunque abbia tempo e competenze da dedicare sarà il benvenuto
