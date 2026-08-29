@@ -1,9 +1,7 @@
-title: Il Mio Sito Demo
+title: Patti Digitali IC19 Verona
 description: >-
-  Sito dimostrativo realizzato con Jekyll, pronto per essere pubblicato
-  su GitHub Pages. Contiene pagine di esempio, immagini, link e una
-  barra di navigazione laterale.
-author: Il Tuo Nome
+  Sito realizzato nell'ambito del progetto Patti digitali dell'Istituto comprensivo 19 Verona
+author: Comitato Genitori e insegnanti IC19 VR
 lang: it
 
 # IMPORTANTE: se pubblichi su https://<utente>.github.io/<nome-repo>/
@@ -17,14 +15,21 @@ url: ""
 nav_items:
   - title: Home
     url: /
+  - title: Cosa sono i patti digitali
+    url: /patti-digitali-cosa-sono/
   - title: Decalogo primaria
     url: /decalogo-primaria/
   - title: Decalogo secondaria
     url: /decalogo-secondaria/
-  - title: Chi siamo
-    url: /chi-siamo/
-  - title: Servizi
-    url: /servizi/
+  - title: Approfondimenti per la primaria
+    url: /patto-digitale-primaria-approfondimenti/
+  - title: Approfondimenti per la secondaria
+    url: /patto-digitale-secondaria-approfondimenti/
+
+  #- title: Chi siamo
+  #  url: /chi-siamo/
+  #- title: Servizi
+  #  url: /servizi/
 
 markdown: kramdown
 plugins:
