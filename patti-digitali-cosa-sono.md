@@ -1,5 +1,5 @@
 layout: default
 
-title: I patti digitali: cosa sono
+title: Cosa sono i patti digitali
 
 permalink: /patti-digitali-cosa-sono/
