@@ -5,6 +5,8 @@ title: Cosa sono i patti digitali
 
 permalink: /patti-digitali-cosa-sono/
 ---
+![logo](https://pattidigitali.it/wp-content/uploads/2026/02/logo-patti-digitali_2026.png)
+
 # Cosa sono i patti digitali?
 
 I patti digitali sono accordi di comunità tra **famiglie**, **scuole** ed **educatori** per coordinare le regole e i tempi sull'uso della tecnologia e degli smartphone da parte di bambini e adolescenti.
