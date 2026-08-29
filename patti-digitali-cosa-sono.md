@@ -5,6 +5,7 @@ title: Cosa sono i patti digitali
 
 permalink: /patti-digitali-cosa-sono/
 ---
+
 ![logo](https://pattidigitali.it/wp-content/uploads/2026/02/logo-patti-digitali_2026.png)
 
 # Cosa sono i patti digitali?
@@ -34,4 +35,4 @@ Nati per contrastare il senso di isolamento dei genitori, questi patti permetton
     
 *   **Promuovere il benessere digitale:** Insegnano a usare la tecnologia in modo attivo e creativo, senza demonizzarla ma fissando limiti sani.
     
-*   È possibile scoprire di più o aderire alle iniziative visitando il sito ufficiale della rete [Patti Digitali](https://pattidigitali.it/).
+*   È possibile scoprire di più o aderire alle iniziative visitando il sito ufficiale della rete [Patti Digitali](https://pattidigitali.it/){:target="_blank"}.
