@@ -1,1 +1,0 @@
-# Decalogo patto digitale IC19 per la scuola primaria
