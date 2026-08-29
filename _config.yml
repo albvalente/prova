@@ -26,10 +26,10 @@ nav_items:
   - title: Approfondimenti per la secondaria
     url: /patto-digitale-secondaria-approfondimenti/
 
-  - title: Chi siamo
-    url: /chi-siamo/
-  - title: Servizi
-    url: /servizi/
+  #- title: Chi siamo
+  #  url: /chi-siamo/
+  #- title: Servizi
+  #  url: /servizi/
 
 markdown: kramdown
 plugins:
