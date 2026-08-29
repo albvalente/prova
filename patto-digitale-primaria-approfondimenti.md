@@ -52,6 +52,31 @@ ___
 
 ## 3. Come genitori cercheremo di attendere almeno fino ai 13 anni per la consegna di uno smartphone personale connesso in rete
 
+Ecco i motivi principali divisi per aree tematiche:
+
+### Sviluppo cognitivo e attenzione
+*   Sviluppo cerebrale: La corteccia prefrontale, che gestisce l'impulso, si sviluppa fino ai 25 anni.
+*   Soglia dell'attenzione: L'uso precoce riduce la capacità di concentrazione profonda.
+*   Risultati scolastici: Meno distrazioni digitali si traducono in voti migliori.
+*   Creatività naturale: Il vuoto e la noia stimolano l'ingegno e l'immaginazione.
+
+### Salute mentale ed emotiva
+*   Minore ansia: Riduce il rischio di depressione legato al confronto sociale costante.
+*   Dipendenza da dopamina: Evita il meccanismo dei "like" che crea dipendenza immediata.
+*   Sonno migliore: L'assenza di schermi in camera migliora la qualità del riposo notturno.
+* Gestione della frustrazione: Insegna l'attesa rispetto alla gratificazione istantanea dello schermo.
+
+### Competenze sociali e sicurezza
+*   Empatia reale: Favorisce la lettura delle espressioni facciali e del tono di voce dal vivo.
+*   Cyberbullismo: Protegge il ragazzo da molestie online in età troppo vulnerabili.
+*   Adescamento: Riduce l'esposizione a malintenzionati sui social network.
+*   Traccia digitale: Evita la pubblicazione di foto o commenti che potrebbero danneggiare il suo futuro.
+
+### Consigli pratici per la transizione
+*   Patto digitale familiare: Stabilire regole scritte prima dell'acquisto.
+*   Telefono base: Iniziare con un modello che fa solo chiamate e messaggi (dumbphone).
+*   Controllo parentale: Configurare filtri di navigazione e limiti di tempo fin dal primo giorno.
+
 ___
 
 ## 4. siamo a conoscenza che i limiti di tempo consigliati da OMS (Organizzazione Mondiale della Sanità) sono:
