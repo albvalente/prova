@@ -31,4 +31,16 @@ Gli esiti di tale esposizione spesso non sono immediatamente osservabili, ma pos
 
 ### Effetti avversi documentati dalla ricerca scientifica e dall'osservazione clinica
 
-Minore capacità di inibire comportamenti inadeguati es. parlare senza alzare la mano in classe Ridotta flessibilità cognitiva es. minor capacità di passare agilmente da un tipo di attività ad un'altra Ridotta memoria di lavoro verbale es. difficoltà nel ricordare più istruzioni e seguirle o nella comprensione del testo Scarsa autoregolazione emotiva es. scarsa capacità di calmarsi dopo uno stress emotivo Disattenzione es. tempi di attenzione brevi, soprattutto per attività poco motivanti come l'acquisizione dei prerequisiti scolastici Scarsa tolleranza alla frustrazione es. necessità di ottenere subito la gratificazione desiderata, ad esempio un gioco Tardivo sviluppo del linguaggio
+*   Minore capacità di inibire comportamenti inadeguati es. parlare senza alzare la mano in classe
+    
+*   Ridotta flessibilità cognitiva es. minor capacità di passare agilmente da un tipo di attività ad un'altra
+    
+*   Ridotta memoria di lavoro verbale es. difficoltà nel ricordare più istruzioni e seguirle o nella comprensione del testo
+    
+*   Scarsa autoregolazione emotiva es. scarsa capacità di calmarsi dopo uno stress emotivo
+    
+*   Disattenzione es. tempi di attenzione brevi, soprattutto per attività poco motivanti come l'acquisizione dei prerequisiti scolastici
+    
+*   Scarsa tolleranza alla frustrazione es. necessità di ottenere subito la gratificazione desiderata, ad esempio un gioco
+    
+*   Tardivo sviluppo del linguaggio
