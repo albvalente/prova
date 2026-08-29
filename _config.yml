@@ -18,7 +18,9 @@ nav_items:
   - title: Home
     url: /
   - title: Decalogo primaria
-    url: /decalogo_primaria/
+    url: /decalogo-primaria/
+  - title: Decalogo secondaria
+    url: /decalogo-secondaria/
   - title: Chi siamo
     url: /chi-siamo/
   - title: Servizi
