@@ -13,11 +13,11 @@ permalink: /decalogo-primaria/
     
 4.  siamo a conoscenza che i limiti di tempo consigliati da OMS (Organizzazione Mondiale della Sanità) sono:
     
-    1.  < 2 anni - zero minuti, solo eventuali videochiamate con i parenti ma in presenza dei genitori
+    *   < 2 anni - zero minuti, solo eventuali videochiamate con i parenti ma in presenza dei genitori
         
-    2.  tra 2 e 5 anni - massimo 1h al giorno, sempre in presenza dei genitori, si consigliano app e programmi educativi
+    *   tra 2 e 5 anni - massimo 1h al giorno, sempre in presenza dei genitori, si consigliano app e programmi educativi
         
-    3.  \> 6 anni - stabilire limiti chiari e fare in modo che non interferiscano con attività all’aria aperta, sport, studio, sonno e prediligere app e contenuti educativi;
+    *   \> 6 anni - stabilire limiti chiari e fare in modo che non interferiscano con attività all’aria aperta, sport, studio, sonno e prediligere app e contenuti educativi;
         
 5.  cercheremo di stabilire regole condivise a casa e nei momenti di aggregazione (evitare l’uso degli schermi appena svegli, a tavola, prima di addormentarsi, alle feste o quando ci sono amici, etc);
     
