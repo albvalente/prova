@@ -96,10 +96,17 @@ Ecco i motivi principali divisi per aree tematiche per ritardare il più possibi
 
 ## 4\. cercheremo di stabilire limiti di tempo chiari, regole condivise e di farli rispettare:
 
-*   timer giornalieri/settimanali per app, social, videogiochi, etc
-    
-*   evitare l’uso degli schermi appena svegli, a tavola, prima di addormentarsi, alle feste o quando si rischia di isolarsi dagli amici
-    
+**Stabilire regole condivise sull’uso degli schermi è un atto d’amore, non di controllo.**
+
+**Al mattino** Evitare il telefono appena svegli permette alla mente di iniziare la giornata con calma.
+
+**A tavola** Lo schermo spento favorisce il dialogo e rafforza i legami familiari.
+
+**Prima di dormire** La luce blu ostacola il sonno e alimenta l’ansia. Meglio spegnere in anticipo.
+
+**Con gli amici** Il dispositivo in tasca lascia spazio alla presenza vera, agli sguardi, alle risate condivise.
+
+Regole chiare, costruite insieme ai ragazzi, non limitano la libertà: insegnano a scegliere consapevolmente quando connettersi e, soprattutto, quando vivere.
 
 ## 5\. riconosciamo l’importanza di rispettare i limiti di età per videogiochi, social e app e fino ai 16 anni cercheremo di mantenere un rapporto di trasparenza e affiancamento: il genitore ha accesso agli strumenti ed ai profili del figlio non per controllarlo di nascosto ma per affiancarlo e aiutarlo a comprenderne le dinamiche della rete;
 
