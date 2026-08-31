@@ -13,6 +13,8 @@ permalink: /bibliografia/
 |<a href="{{ '/bibliografia/linee-guida-OMS.pdf' | relative_url }}" target="_blank">Raccomandazioni Organizzazione Mondiale della Sanità</a> |
 |<a href="{{ '/bibliografia/Oltre_lo_schermo_guida_operativa_UNIPD_2026.pdf' | relative_url }}" target="_blank">Oltre lo schermo guida operativa UNIPD 2026</a> |
 
+<hr>
+
 | Libri |
 | --- |
 |<img src="{{ '/bibliografia/haidt.jpg' | relative_url }}"> |
