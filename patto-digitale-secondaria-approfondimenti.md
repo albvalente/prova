@@ -13,6 +13,29 @@ _Noi genitori, insegnanti, allenatori, animatori e figure educative a vario tito
 
 ## 2\. siamo consapevoli che l’uso eccessivo e non supervisionato di schermi digitali (smartphone, tablet, smartwatch, videogiochi, etc) ha effetti negativi dimostrati sullo sviluppo del cervello dei ragazzi e delle loro capacità di interazioni sociali;
 
+Le reti neurali sono strutture che connettono le varie parti del cervello e permettono di coordinare pensiero, parole, azioni, etc. Le reti neurali sono in parte già presenti alla nascita ma si sviluppano progressivamente nei primi anni di vita grazie all'interazione con l'ambiente circostante.
+
+L'esposizione precoce (0-6 anni) agli schermi interferisce negativamente con questo sviluppo: tale esposizione limita le esperienze con l'ambiente (es. esplorazione di giochi, interazione con pari) e, di conseguenza, altera la comunicazione tra le diverse aree del cervello da cui dipendono le funzioni esecutive, il linguaggio, l'apprendimento e il comportamento più in generale.
+
+Gli esiti di tale esposizione spesso non sono immediatamente osservabili, ma possono emergere tardivamente ad esempio con l'entrata a scuola o in epoca preadolescenziale.
+
+### Effetti avversi documentati dalla ricerca scientifica e dall'osservazione clinica
+
+*   Minore capacità di inibire comportamenti inadeguati es. parlare senza alzare la mano in classe
+    
+*   Ridotta flessibilità cognitiva es. minor capacità di passare agilmente da un tipo di attività ad un'altra
+    
+*   Ridotta memoria di lavoro verbale es. difficoltà nel ricordare più istruzioni e seguirle o nella comprensione del testo
+    
+*   Scarsa autoregolazione emotiva es. scarsa capacità di calmarsi dopo uno stress emotivo
+    
+*   Disattenzione es. tempi di attenzione brevi, soprattutto per attività poco motivanti come l'acquisizione dei prerequisiti scolastici
+    
+*   Scarsa tolleranza alla frustrazione es. necessità di ottenere subito la gratificazione desiderata, ad esempio un gioco
+    
+*   Sviluppo tardivo del linguaggio
+    
+
 ## 3\. come genitori cercheremo di attendere almeno fino ai 13 anni per la consegna di uno smartphone personale connesso in rete;
 
 ## 4\. cercheremo di stabilire limiti di tempo chiari, regole condivise e di farli rispettare:
