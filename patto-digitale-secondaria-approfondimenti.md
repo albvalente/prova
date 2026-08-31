@@ -152,7 +152,7 @@ Partecipare alle iniziative promosse dalla scuola, dalle agenzie educative del t
 
 ## 9\. cercheremo di sottoscrivere un accordo con i nostri figli alla consegna dello smartphone e di verificarlo periodicamente anche confrontandoci con altri genitori della stessa classe, squadra sportiva, etc.
 
-Sottoscrivere un **accordo scritto con i figli** al momento della consegna dello smartphone è importante perché trasforma regole spesso percepite come imposizioni unilaterali in un patto condiviso, discusso e compreso insieme. Nella pagina [Bibliografia](bibliografia) riportiamo un esempio da scaricare e personalizzare (a cura della Fondazione Patti Digitali)
+Sottoscrivere un **accordo scritto con i figli** al momento della consegna dello smartphone è importante perché trasforma regole spesso percepite come imposizioni unilaterali in un patto condiviso, discusso e compreso insieme. Nella pagina \[Bibliografia\]({{ '/bibliografia/' | relative\_url }}) riportiamo un esempio da scaricare e personalizzare (a cura della Fondazione Patti Digitali)
 
 Mettere nero su bianco orari di utilizzo, app consentite, comportamenti online e conseguenze in caso di violazione responsabilizza il ragazzo, che diventa parte attiva nella definizione delle regole anziché semplice destinatario di divieti, favorendo così una maggiore adesione spontanea.
 
