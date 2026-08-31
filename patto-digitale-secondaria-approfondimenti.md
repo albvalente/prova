@@ -140,6 +140,30 @@ Tra figli e genitori la condivisione può essere uno strumento utile di sicurezz
 
 ## 8\. come genitori faremo del nostro meglio per fare squadra comune, cercare di dare il buon esempio nell’uso degli schermi digitali e per tenerci aggiornati anche partecipando alle iniziative sul digitale che verranno organizzate dalla scuola e dalle agenzie educative del territorio;
 
+È fondamentale che noi genitori facciamo squadra comune nell'educazione digitale dei figli, perché messaggi discordanti tra madre e padre, o tra famiglia e altri adulti di riferimento, indeboliscono qualsiasi regola e offrono ai ragazzi facili scappatoie.
+
+Un fronte coeso, al contrario, trasmette coerenza e serietà alle indicazioni condivise.
+
+Altrettanto importante è dare il buon esempio nell'uso degli schermi: i ragazzi imparano soprattutto per imitazione, e pretendere regole che noi per primi non rispettiamo (smartphone a tavola, telefono controllato di continuo, notifiche che interrompono le conversazioni) mina la nostra credibilità educativa.
+
+Infine, è essenziale tenerci aggiornati: il mondo digitale evolve rapidamente, con nuove app, piattaforme e rischi che emergono di continuo, e non possiamo educare efficacemente ciò che non comprendiamo.
+
+Partecipare alle iniziative promosse dalla scuola, dalle agenzie educative del territorio e dalle associazioni specializzate ci permette di acquisire strumenti concreti, confrontarci con altri genitori ed esperti, e restare al passo con un fenomeno che riguarda direttamente la crescita e il benessere dei nostri figli.
+
 ## 9\. cercheremo di sottoscrivere un accordo con i nostri figli alla consegna dello smartphone e di verificarlo periodicamente anche confrontandoci con altri genitori della stessa classe, squadra sportiva, etc.
 
-## 10\. siamo consapevoli dei rischi presentati da un uso eccessivo dei sistemi di intelligenza artificiale e faremo del nostro meglio per educare i giovani ad un uso responsabile, graduale e consapevole.
+Sottoscrivere un accordo scritto con i figli al momento della consegna dello smartphone è importante perché trasforma regole spesso percepite come imposizioni unilaterali in un patto condiviso, discusso e compreso insieme.
+
+Mettere nero su bianco orari di utilizzo, app consentite, comportamenti online e conseguenze in caso di violazione responsabilizza il ragazzo, che diventa parte attiva nella definizione delle regole anziché semplice destinatario di divieti, favorendo così una maggiore adesione spontanea.
+
+Un accordo, però, non può restare statico: verificarlo periodicamente permette di adattarlo alla crescita del figlio, alle nuove app che emergono e alle situazioni concrete che si presentano, mantenendolo uno strumento vivo e non un documento dimenticato in un cassetto.
+
+Confrontarsi con altri genitori della stessa classe o squadra sportiva è altrettanto prezioso: permette di allineare le regole tra famiglie diverse, evitando che un figlio si senta l'unico "escluso" o, al contrario, l'unico senza limiti rispetto ai compagni, e crea una rete di supporto reciproco fondamentale per affrontare insieme le sfide comuni dell'educazione digitale.
+
+## 10\. siamo consapevoli dei rischi presentati da un uso eccessivo dei sistemi di intelligenza artificiale e faremo del nostro meglio per educare i giovani ad un uso responsabile, graduale e consapevole;
+
+Siamo consapevoli dei rischi legati a un uso eccessivo e non consapevole dei sistemi di intelligenza artificiale da parte dei più giovani: dalla dipendenza da chatbot utilizzati come sostituti di relazioni umane autentiche, al rischio di deleghe cognitive precoci che possono indebolire capacità di pensiero critico, memoria e problem solving se l'IA viene usata per "pensare al posto loro" anziché come supporto.
+
+Non trascurabili sono anche i rischi legati alla disinformazione generata da contenuti artificiali (testi, immagini, video) sempre più difficili da distinguere dal reale, e alla condivisione involontaria di dati personali con questi sistemi.
+
+Per questo ci impegniamo a educare i ragazzi a un uso responsabile, graduale e consapevole dell'intelligenza artificiale: introducendo questi strumenti in base all'età e alla maturità, spiegandone il funzionamento essenziale (compresi i limiti e i possibili errori), incoraggiando un approccio critico ai contenuti generati e promuovendo l'IA come strumento di supporto alla creatività e all'apprendimento, mai come sostituto del pensiero autonomo, della relazione umana o dello sforzo personale nella costruzione delle proprie competenze.
