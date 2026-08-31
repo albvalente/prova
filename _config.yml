@@ -25,11 +25,9 @@ nav_items:
     url: /patto-digitale-primaria-approfondimenti/
   - title: Approfondimenti per la secondaria
     url: /patto-digitale-secondaria-approfondimenti/
+  - title: Bibliografia
+    url: /bibliografia/
 
-  #- title: Chi siamo
-  #  url: /chi-siamo/
-  #- title: Servizi
-  #  url: /servizi/
 
 markdown: kramdown
 plugins:
