@@ -5,7 +5,7 @@ permalink: /decalogo-secondaria/
 ---
 # Decalogo patto digitale IC19 per la scuola secondaria (Verdi)
 
-### Noi genitori, insegnanti e figure educative a vario titolo di bambini, giovani e ragazzi:
+### Noi genitori, insegnanti, allenatori, animatori e figure educative a vario titolo di bambini, giovani e ragazzi:
 
 1.  non vogliamo impedire l’uso del digitale alle nuove generazioni, ma faremo del nostro meglio per renderla un’esperienza costruttiva;
     
