@@ -50,7 +50,7 @@ Gli esiti di tale esposizione spesso non sono immediatamente osservabili, ma pos
 
 ## 3\. Come genitori cercheremo di attendere almeno fino ai 13 anni per la consegna di uno smartphone personale connesso in rete
 
-Ecco i motivi principali divisi per aree tematiche:
+Ecco i motivi principali divisi per aree tematiche per ritardare il più possibile la consegna di uno smartphone:
 
 ### Sviluppo cognitivo e attenzione
 
@@ -89,7 +89,7 @@ Ecco i motivi principali divisi per aree tematiche:
 
 *   Patto digitale familiare: Stabilire regole scritte prima dell'acquisto.
     
-*   Telefono base: Iniziare con un modello che fa solo chiamate e messaggi (dumbphone).
+*   Telefono base: Iniziare con un modello che fa solo chiamate e messaggi (_dumbphone_).
     
 *   Controllo parentale: Configurare filtri di navigazione e limiti di tempo fin dal primo giorno.
     
