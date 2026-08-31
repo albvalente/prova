@@ -10,6 +10,6 @@ permalink: /bibliografia/
 
 | Documenti istituzionali |
 | --- |
-| <a href="/bibliografia/linee-guida-OMS.pdf" target="_blank">Raccomandazioni Organizzazione Mondiale della Sanità</a> |
-|<a href="/bibliografia/Oltre_lo_schermo_guida_operativa_UNIPD_2026.pdf" target="_blank">Oltre lo schermo guida operativa UNIPD 2026</a> |
-|<a href="" target="_blank"></a> |
+| <a href="{{ '/bibliografia/linee-guida-OMS.pdf' | relative_url }}" target="_blank">Raccomandazioni Organizzazione Mondiale della Sanità</a> |
+|<a href="{{ '/bibliografia/Oltre_lo_schermo_guida_operativa_UNIPD_2026.pdf' | relative_url }}" target="_blank">Oltre lo schermo guida operativa UNIPD 2026</a> |
+|<a href="{{ '/assets/css/style-istituzionale.css' | relative_url }}" target="_blank">css</a> |
