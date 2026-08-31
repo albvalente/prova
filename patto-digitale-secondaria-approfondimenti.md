@@ -110,9 +110,31 @@ Regole chiare, costruite insieme ai ragazzi, non limitano la libertà: insegnano
 
 ## 5\. riconosciamo l’importanza di rispettare i limiti di età per videogiochi, social e app e fino ai 16 anni cercheremo di mantenere un rapporto di trasparenza e affiancamento: il genitore ha accesso agli strumenti ed ai profili del figlio non per controllarlo di nascosto ma per affiancarlo e aiutarlo a comprenderne le dinamiche della rete;
 
-## 6\. conosciamo l’importanza dei filtri parentali ma sappiamo che vanno usati come aiuto e non come sostituto al nostro ruolo di genitori perché tutti i sistemi sono aggirabili e i ragazzi saranno sempre un passo avanti a noi: la responsabilità genitoriale è nostra, non di Google. Andando avanti con l’età i filtri potranno essere rimossi se saremo riusciti a creare competenza e fiducia reciproca nell’uso del digitale
+I limiti di età previsti per videogiochi, social network e applicazioni non sono soglie arbitrarie ma indicazioni basate su criteri di sviluppo cognitivo ed emotivo.
 
-## 7\. ci rendiamo disponibili a sviluppare una riflessione condivisa sull’usanza della condivisione della geolocalizzazione tra genitori e figli e tra coetanei
+Fino ai 16 anni ci impegniamo a mantenere un rapporto di trasparenza e affiancamento con nostro figlio: l'accesso del genitore agli strumenti digitali e ai profili non ha lo scopo di controllare di nascosto o violare la privacy, ma di camminare al suo fianco, aiutandolo a comprendere le dinamiche della rete, i rischi (adescamento, cyberbullismo, contenuti inappropriati, dipendenza da notifiche) e le opportunità che offre.
+
+Questo affiancamento si traduce in **conversazioni regolari** su ciò che vede e vive online ("Come va sui social?"), nella condivisione delle password non come imposizione ma come patto di fiducia reciproca, e nell'attenzione a insegnare un uso consapevole prima di garantire piena autonomia.
+
+L'obiettivo non è la sorveglianza ma l'educazione digitale: rendere nostro figlio capace, gradualmente, di riconoscere da solo i rischi e di gestire responsabilmente il proprio tempo e la propria identità online, così che l'autonomia arrivi quando è pronto a sostenerla, non semplicemente quando la richiede.
+
+## 6\. conosciamo l’importanza dei filtri parentali ma sappiamo che vanno usati come aiuto e non come sostituto al nostro ruolo di genitori perché tutti i sistemi sono aggirabili e i ragazzi saranno sempre un passo avanti a noi: la responsabilità genitoriale è nostra, non di Google. Andando avanti con l’età i filtri potranno essere rimossi se saremo riusciti a creare competenza e fiducia reciproca nell’uso del digitale;
+
+È importante comprendere il valore dei filtri parentali (i software che bloccano l'accesso a contenuti classificati come non adatti ai giovani), ma altrettanto importante è riconoscerne i limiti: sono strumenti di supporto, non sostituti della responsabilità educativa dei genitori.
+
+Affidarsi solo alla tecnologia rischia di generare una falsa sicurezza, perché ogni sistema di controllo è tecnicamente aggirabile, e i ragazzi, cresciuti nel digitale, sviluppano competenze per superarlo spesso prima e meglio di noi. Capire questo significa evitare l'errore di "delegare" l'educazione digitale a un'app o a un algoritmo.
+
+Riconoscere l'importanza dei filtri, dunque, non vuol dire considerarli risolutivi, ma usarli come una **rete di protezione temporanea**, accompagnata da **dialogo, spiegazioni e presenza attiva**. Man mano che il ragazzo cresce e dimostra competenza critica nel riconoscere rischi e opportunità della rete, e che si consolida un rapporto di fiducia reciproca, i filtri potranno essere progressivamente ridotti fino alla rimozione, segnando il passaggio verso un'autonomia digitale reale e consapevole.
+
+## 7\. ci rendiamo disponibili a sviluppare una riflessione condivisa sull’usanza della condivisione della geolocalizzazione tra genitori e figli e tra coetanei;
+
+La condivisione della posizione tramite app o funzioni integrate negli smartphone (come la condivisione live su iMessage o WhatsApp) comporta rischi spesso sottovalutati.
+
+Tra coetanei, la geolocalizzazione costante può alimentare dinamiche di controllo sociale ed esclusione: sapere sempre dove si trovano gli altri genera ansia da confronto, paura di essere tagliati fuori ([FOMO](https://it.wikipedia.org/wiki/FOMO)) e, in alcuni casi, forme di monitoraggio reciproco che sconfinano nel controllo relazionale o nel cyberbullismo. Se la posizione è visibile a un gruppo ampio o mal configurata, aumenta anche il rischio di essere rintracciati da sconosciuti o di esporre la propria routine quotidiana (casa, scuola, orari) a persone malintenzionate.
+
+Tra figli e genitori la condivisione può essere uno strumento utile di sicurezza, ma se usata in modo invasivo o senza consenso rischia di minare la fiducia reciproca, trasformandosi in sorveglianza costante anziché in tutela concordata.
+
+È quindi fondamentale impostare correttamente la privacy delle app, condividere la posizione solo con contatti fidati e mantenere un dialogo aperto sul perché e come viene usata questa funzione.
 
 ## 8\. come genitori faremo del nostro meglio per fare squadra comune, cercare di dare il buon esempio nell’uso degli schermi digitali e per tenerci aggiornati anche partecipando alle iniziative sul digitale che verranno organizzate dalla scuola e dalle agenzie educative del territorio;
 
