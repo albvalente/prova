@@ -15,7 +15,11 @@ permalink: /bibliografia/
 
 | Libri |
 | --- |
-|<img src="{{ '/bibliografia/haidt.jpg' | relative_url }}"> Jonathan Haidt, LA GENERAZIONE ANSIOSA|
-|<img src="{{ '/bibliografia/haidt.jpg' | relative_url }}"> Richard E. Cytowic, UN CERVELLO DELL'ETÀ DELLA PIETRA NELL'ERA DEGLI SCHERMI |
-|<img src="{{ '/bibliografia/pellai.jpg' | relative_url }}"> A.Pellai, B.Tamborini, ESCI DA QUELLA STANZA|
-|<img src="{{ '/bibliografia/ulss.jpg' | relative_url }}"> Azienda Ospedaliera Verona, Addiction@School|
+|<img src="{{ '/bibliografia/haidt.jpg' | relative_url }}"> |
+|Jonathan Haidt, LA GENERAZIONE ANSIOSA|
+|<img src="{{ '/bibliografia/cytowic.jpg' | relative_url }}"> |
+|Richard E. Cytowic, UN CERVELLO DELL'ETÀ DELLA PIETRA NELL'ERA DEGLI SCHERMI |
+|<img src="{{ '/bibliografia/pellai.jpg' | relative_url }}"> |
+|A.Pellai, B.Tamborini, ESCI DA QUELLA STANZA|
+|<img src="{{ '/bibliografia/addiction.jpg' | relative_url }}"> |
+|Azienda Ospedaliera Verona, Addiction@School|
