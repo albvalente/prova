@@ -130,9 +130,11 @@ Riconoscere l'importanza dei filtri, dunque, non vuol dire considerarli risoluti
 
 La condivisione della posizione tramite app o funzioni integrate negli smartphone (come la condivisione live su iMessage o WhatsApp) comporta rischi spesso sottovalutati.
 
-Tra coetanei, la geolocalizzazione costante può alimentare dinamiche di controllo sociale ed esclusione: sapere sempre dove si trovano gli altri genera ansia da confronto, paura di essere tagliati fuori ([FOMO](https://it.wikipedia.org/wiki/FOMO)) e, in alcuni casi, forme di monitoraggio reciproco che sconfinano nel controllo relazionale o nel cyberbullismo. Se la posizione è visibile a un gruppo ampio o mal configurata, aumenta anche il rischio di essere rintracciati da sconosciuti o di esporre la propria routine quotidiana (casa, scuola, orari) a persone malintenzionate.
+Tra coetanei, la geolocalizzazione costante può alimentare **dinamiche di controllo sociale ed esclusione**: sapere sempre dove si trovano gli altri genera ansia da confronto, paura di essere tagliati fuori ([FOMO](https://it.wikipedia.org/wiki/FOMO)) e, in alcuni casi, forme di monitoraggio reciproco che sconfinano nel controllo relazionale o nel cyberbullismo.
 
-Tra figli e genitori la condivisione può essere uno strumento utile di sicurezza, ma se usata in modo invasivo o senza consenso rischia di minare la fiducia reciproca, trasformandosi in sorveglianza costante anziché in tutela concordata.
+Se la posizione è visibile a un gruppo ampio o mal configurata, aumenta anche il rischio di essere rintracciati da sconosciuti o di esporre la propria routine quotidiana (casa, scuola, orari) a persone malintenzionate.
+
+Tra figli e genitori la condivisione può essere uno strumento utile di sicurezza, ma se usata in modo invasivo o senza consenso rischia di minare la fiducia reciproca, **trasformandosi in sorveglianza costante** anziché in tutela concordata.
 
 È quindi fondamentale impostare correttamente la privacy delle app, condividere la posizione solo con contatti fidati e mantenere un dialogo aperto sul perché e come viene usata questa funzione.
 
