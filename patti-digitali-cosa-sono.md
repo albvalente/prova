@@ -6,7 +6,7 @@ title: Cosa sono i patti digitali
 permalink: /patti-digitali-cosa-sono/
 ---
 
-![logo](https://pattidigitali.it/wp-content/uploads/2026/02/logo-patti-digitali_2026.png)
+<img src="{{ '/assets/images/logo-patti-digitali_2026.png' | relative_url }}" alt="Logo Patti Digitali">
 
 # Cosa sono i patti digitali?
 
