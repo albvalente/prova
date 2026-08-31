@@ -50,6 +50,14 @@ Gli esiti di tale esposizione spesso non sono immediatamente osservabili, ma pos
 
 ## 3\. come genitori cercheremo di attendere almeno fino ai 13 anni per la consegna di uno smartphone personale connesso in rete;
 
+La ricerca sugli effetti degli smartphone sugli adolescenti è ampia. Jean Twenge (San Diego State University) ha documentato, analizzando dati su milioni di ragazzi, un aumento parallelo di ansia, depressione e autolesionismo a partire dal 2012, anno di inizio della diffusione degli smartphone.
+
+Dal punto di vista neuroscientifico, la corteccia prefrontale — responsabile di autocontrollo, pianificazione e regolazione delle emozioni — non raggiunge la piena maturazione prima dei 25 anni, mentre il sistema limbico (ricompensa, impulsività) è già molto attivo in adolescenza: questo squilibrio rende i più giovani particolarmente vulnerabili ai meccanismi di dipendenza progettati nei social media e nelle app.
+
+Studi mostrano anche una correlazione tra uso intensivo dello smartphone prima del sonno e peggioramento della qualità del riposo, con ricadute su memoria e rendimento scolastico.
+
+Per questo l'American Academy of Pediatrics e altre società scientifiche raccomandano di posticipare l'accesso, privilegiando prima l'autonomia relazionale e la capacità di autoregolazione.
+
 ## 4\. cercheremo di stabilire limiti di tempo chiari, regole condivise e di farli rispettare:
 
 *   timer giornalieri/settimanali per app, social, videogiochi, etc
